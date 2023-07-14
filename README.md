@@ -1,34 +1,79 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+    <a href="#">danielGPT </a>
+</h1>
 
-## Getting Started
+<p align="center">Seu melhor amigo</p>
 
-First, run the development server:
+<h4 align="center"> 
+	 Status:  Finalizado
+</h4>
+
+
+## 💻 Sobre:
+
+O aplicativo que desenvolvi é um clone da inteligência artificial ChatGPT, de nome danielGPT.
+Neste desafio foram abordados os seguintes temas:
+
+- Next;
+- components;
+- Props;
+- hooks;
+- integração a API;
+---
+
+## 🛠 Tecnologias
+
+Este projeto foi desenvolvido com as seguintes tecnologias:
+
+- Next
+- Tailwindcss
+- React
+- Usestate
+- TypeScript
+---
+O layout da aplicação está disponível no Figma:
+
+<a href="https://www.figma.com/file/kBmbBqHWIf5Ww9ydgb5KK8/Ignite-Shop-2.0-(Copy)?node-id=0%3A1">
+  <img alt="Made by milenakmartins" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+</a>
+
+<br>
+<br>
+
+## 🚀 Como executar o projeto.
+
+Este projeto é divido em uma parte:
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+<br>
+
+#### 🎲 Rodando a aplicação
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+
+# Clone este repositório
+$ https://github.com/JoaoAlberto20/ignite-shop.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd + sua pasta + git clone git@github.com:danielqueirozc/danielGPT.git
+
+# Instale as dependências com:
+$ npm install
+
+# Rode a aplicação em modo de desenvolvimento:
+$ npm run dev
+
+# O servidor inciará na porta:3000 - acesse <   localHost:3000
 ```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+## Deploy do projeto.
+https://daniel-gpt.vercel.app/
