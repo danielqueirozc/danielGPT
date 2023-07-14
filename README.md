@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="#">danielGPT </a>
+    <a href="https://daniel-gpt.vercel.app/">danielGPT </a>
 </h1>
 
 <p align="center">Seu melhor amigo</p>
@@ -53,7 +53,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ https://github.com/JoaoAlberto20/ignite-shop.git
+$ https://github.com/danielqueirozc/danielGPT.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd + sua pasta + git clone git@github.com:danielqueirozc/danielGPT.git
