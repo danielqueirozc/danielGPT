@@ -31,11 +31,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - Usestate
 - TypeScript
 ---
-O layout da aplicação está disponível no Figma:
 
-<a href="https://www.figma.com/file/kBmbBqHWIf5Ww9ydgb5KK8/Ignite-Shop-2.0-(Copy)?node-id=0%3A1">
-  <img alt="Made by milenakmartins" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
-</a>
 
 <br>
 <br>
